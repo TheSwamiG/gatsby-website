@@ -1,2 +1,2 @@
 # gatsby-website
-My First gatsby website
+My First Gatsby Website
